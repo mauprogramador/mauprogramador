@@ -1,7 +1,7 @@
 ## Hi, I'm Maurício 🖐️
 >**A Brazilian Backend Developer.** </br>
->**Student of the [IFMS Campus Três Lagoas](https://www.ifms.edu.br/campi/campus-tres-lagoas).** (Federal Institute of Mato Grosso do Sul) </br>
->**Studying [Tecnologia em Análise e Desenvolvimento de Sistemas](https://www.ifms.edu.br/campi/campus-tres-lagoas/cursos/graduacao/analise-e-desenvolvimento-de-sistemas).** (Technology in Systems Analysis and Development) </br>
+>**Student of the Federal Institute of Mato Grosso do Sul ([IFMS - Campus Três Lagoas](https://www.ifms.edu.br/campi/campus-tres-lagoas)).** </br>
+>**Studying Technology in Systems Analysis and Development ([TADS - Tecnologia em Análise e Desenvolvimento de Sistemas](https://www.ifms.edu.br/campi/campus-tres-lagoas/cursos/graduacao/analise-e-desenvolvimento-de-sistemas)).** </br>
 
 🌱 I’m currently learning about Clean Architecture <br>
 🤝 I’m looking for help with the project structure and machine learning <br>
